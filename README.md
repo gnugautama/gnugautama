@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gnugautama
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning CSS and JavaScript
 - 💞️ I’m looking to collaborate on github 
 - 📫 How to reach me is by go to this link https://linktr.ee/agungutama
