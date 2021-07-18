@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gnugautama
+- 👋 Hi, I’m Gusti Agung Utama
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning CSS and JavaScript
 - 💞️ I’m looking to collaborate on github 
